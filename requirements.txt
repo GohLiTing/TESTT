@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 byeee
@@ -8,3 +9,16 @@ pandas==1.5.3
 scikit-learn==1.2.0
 wtforms==3.1.2
 gunicorn==21.2.0
+=======
+
+byeee
+Flask==3.0.0
+matplotlib==3.7.4
+numpy==1.24.4
+pandas==1.5.3
+EAT SHIT
+scikit-learn==1.2.0
+wtforms==3.1.2
+hiiiiiiiiiii
+gunicorn==21.2.0
+>>>>>>> 234eab51f6b9c0535d7468950f8f27f5eb8ebb67
